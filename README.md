@@ -1,1 +1,1 @@
-# -react-entertainment-hub
+LIVE DEMO->  https://entertainmenthub.netlify.app/movies
